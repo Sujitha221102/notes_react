@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Link
+https://notes-react-two.vercel.app/
 
 ## Available Scripts
 
