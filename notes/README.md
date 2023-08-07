@@ -1,5 +1,5 @@
 # Link
-https://notes-react-two.vercel.app/
+notes-react-976r.vercel.app
 
 ## Available Scripts
 
