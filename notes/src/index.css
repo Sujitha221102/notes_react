@@ -11,14 +11,50 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-form{
-  width:150px;
+body{
+  background-color: antiquewhite;
+}
+#content{
+  margin-left:600px;
+}
+#container{
+  width:700px;
+  margin-left:650px;
   justify-content: center;
-  margin:50px;
+  align-items: center;
+}
+form{
+  position:relative;
+  left:30%;
+  width:300px;
+  justify-content: center;
+  margin-top:20px;
+  margin-left:50px;
   border: 1px solid pink;
   background-color: pink;
-  padding:15%;
+  padding-left:10%;
+  padding-bottom: 5%;
 }
 .btn{
   display:none;
+}
+#submit{
+  /* margin-left:50px; */
+  background-color: blueviolet;
+  border:1px solid blueviolet;
+  color:beige
+}
+.btn1{
+  color:white;
+  background-color:rgb(202, 71, 71);
+  border:1px solid rgb(202, 71, 71);
+}
+.btn2{
+  color:white;
+  background-color: rgb(40, 40, 223);
+  border:1px solid rgb(40, 40, 223);
+}
+#submit:hover{
+  background-color:rgb(115, 215, 115);
+  color:black;
 }
